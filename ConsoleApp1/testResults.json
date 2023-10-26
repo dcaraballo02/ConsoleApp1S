@@ -1,0 +1,14 @@
+[
+  {
+    "TestCaseName": "Test1",
+    "Status": "Pass",
+    "ExecutionTime": 1.23,
+    "TimeStamp": "2023-10-24T22:21:28Z"
+  },
+  {
+    "TestCaseName": "Test2",
+    "Status": "Fail",
+    "ExecutionTime": 2.34,
+    "TimeStamp": "2023-10-24T22:21:29Z"
+  }
+]
